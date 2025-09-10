@@ -275,5 +275,23 @@ df1
 <img width="304" height="401" alt="Screenshot 2025-08-19 111236" src="https://github.com/user-attachments/assets/c71cda29-9478-460c-9a0a-f4bc1ee6bbdd" />
 
 
+
+# Summary
+ Load & explore data (describe, info, head, tail).
+
+ Check for missing values (isnull, notnull, sum).
+
+ Filter rows, select subsets of data (iloc, loc, conditions).
+
+ Handle missing data (drop, fill, interpolate, mean imputation).
+
+ Explore categorical data (value_counts).
+
+ Work with multiple datasets (Data_set.csv, SAMPLEIDS.csv, heights.csv).
+
+ Visualize distributions (boxplot, scatterplot).
+
+ Detect & remove outliers (IQR method, Z-score).
+
 # Result
 Thus the given data has been read, cleaned and the data has been saved to a file.
